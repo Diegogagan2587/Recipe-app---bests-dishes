@@ -35,8 +35,6 @@
 
 **Recipe App** keeps track of all your recipes and ingredients. It will allow you to save ingredients, keep track of what you have, create recipes and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.
 
- [![image](https://github.com/user-attachments/assets/b3b96858-e063-4206-8942-d65f1aaa6264)](https://drive.google.com/file/d/1X_cUXes4tMDLnqOyb4cHZ60jkN4GAgLq/view?usp=sharing)
-
 ## 🛠 Built With <a id="built-with"></a>
 
 ### Tech Stack <a id="tech-stack"></a>
